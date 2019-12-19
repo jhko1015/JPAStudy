@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="246edbca-1f18-4e7e-9724-80846011710d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V3upPr42EotVtWV5eX5O0uhOda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMain" />
+      <module name="ex1hellojpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="246edbca-1f18-4e7e-9724-80846011710d" name="Default Changelist" comment="" />
+      <created>1576494282711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576494282711</updated>
+      <workItem from="1576494287101" duration="1528000" />
+      <workItem from="1576751288692" duration="5908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1832" y="123" key="#Project_Structure" timestamp="1576751485758">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state x="1832" y="123" key="#Project_Structure/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576751485758" />
+    <state x="2045" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1576752474345">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state x="2045" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576752474345" />
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom" timestamp="1576754620944">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576754620944" />
+    <state width="1877" height="289" key="GridCell.Tab.0.center" timestamp="1576754620943">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576754620943" />
+    <state width="1877" height="289" key="GridCell.Tab.0.left" timestamp="1576754620943">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576754620943" />
+    <state width="1877" height="289" key="GridCell.Tab.0.right" timestamp="1576754620943">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576754620943" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576753638393">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576753638393" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576753638393">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576753638393" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576753638393">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576753638393" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576753638393">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576753638393" />
+    <state x="1741" y="106" key="SettingsEditor" timestamp="1576752570289">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state x="1741" y="106" key="SettingsEditor/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576752570289" />
+    <state x="1778" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1576751293465">
+      <screen x="1280" y="-55" width="1920" height="1040" />
+    </state>
+    <state x="1778" y="278" key="com.intellij.ide.util.TipDialog/0.0.1280.984/1280.-55.1920.1040@1280.-55.1920.1040" timestamp="1576751293465" />
+    <state x="332" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576494291661" />
+  </component>
+</project>
